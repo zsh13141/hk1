@@ -1,2 +1,8 @@
 *.txt
 /my
+[alias]
+    a = add .
+    c = commit
+    l = log
+    s = status
+
